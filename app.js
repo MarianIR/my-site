@@ -8,3 +8,5 @@ navToggle.addEventListener("click", () => {
 });
 
 submitButton.addEventListener("submit", () => {});
+
+console.log("Hello");
